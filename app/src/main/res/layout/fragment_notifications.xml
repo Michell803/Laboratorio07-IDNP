@@ -27,6 +27,6 @@
         android:id="@+id/go_to_home"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Enviar datoa a Home" />
+        android:text="Enviar datos a Home" />
 
 </LinearLayout>

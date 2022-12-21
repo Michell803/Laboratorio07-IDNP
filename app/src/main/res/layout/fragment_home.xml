@@ -27,6 +27,6 @@
         android:id="@+id/go_to_dashboard"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Enviar datoa al tablero" />
+        android:text="Enviar datos al tablero" />
 
 </LinearLayout>
